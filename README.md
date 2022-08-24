@@ -14,11 +14,11 @@
 
  ## 🚀 Project 5 Live Link 
  
-- This Project is been Hosted on Netlify. [Project Live Link](https://live-class-project-15.netlify.app)
+- This Project is been Hosted on Netlify. [Project Live Link](https://live-class-project-05.netlify.app/)
 
 > Output 
 
-![output](./output.png) 
+![output](./assets/output.png) 
 
 
 ## 🛠 Skills Gained in this project
